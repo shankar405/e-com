@@ -60,3 +60,8 @@ bash
 cd ../frontend
 npm install
 npm run dev
+
+Browser
+go to
+http://localhost:5000/api/products/seed
+it will add dummy data produt in the data base and then u can open frontend and ineract with the ui
